@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education |University students have low lecture attendance. We want to test whether students who attend more lectures perform better in exams and encourage attendance. |Lecture attendance records and exam results for each student. |Store attendance and exam results in a structured database using student IDs. |Calculate average attendance and compare it with exam grades to identify correlations. Universities can encourage attendance through reminders or attendance rewards. |
+| Vaccination |Some people do not get vaccinated on time, increasing the risk of diseases spreading. We want to improve vaccination rates. |Vaccination dates, vaccine types, age groups, and the number of people vaccinated in different areas. |Store vaccination records in a secure database using structured tables and anonymised patient IDs. |Calculate vaccination rates, identify areas with low vaccination coverage, and organise targeted vaccination campaigns or reminders. |
+| Productivity |Employees may have different levels of productivity. A company wants to understand what affects productivity and how to improve it. |Tasks completed, time taken, deadlines met, working hours, and employee feedback. | Store the data in a structured database or spreadsheet, organised by employee ID and date.|Calculate average productivity, identify factors associated with higher productivity, and improve work schedules, training, and workflows. |
 
 ## Rubric
 
